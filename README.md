@@ -1,1 +1,1 @@
-hey this is weather check project made using html,css,javascript
+hey this is weather check Api project made by using html,css,javascript 
